@@ -185,6 +185,18 @@ prism/
 
 ---
 
+# 🤝 Contributing
+
+개인 프로젝트지만 버그 제보, 기능 제안, PR 모두 언제든 환영해요!
+
+혼자 만든 프로젝트라 놓친 부분이 분명 있을 텐데, 관심 가져주신다면 정말 감사하겠습니다 🙏
+
+- 🐛 버그 발견 → [Issues](issues) 에 제보해주세요
+- 💡 기능 아이디어 → [Issues](issues) 에서 편하게 얘기해요
+- 🔧 직접 고치고 싶다 → PR 올려주시면 바로 검토할게요
+
+---
+
 <div align="center">
 
 Made with ❤️ for personal use only · **Do not deploy publicly.**
