@@ -10,6 +10,9 @@
 
 *SvelteKit · youtubei.js · yt-dlp*
 
+
+![preview](.github/assets/preview-1.png)
+
 </div>
 
 ---
@@ -37,25 +40,34 @@
 - 화질 선택 (AUTO / 240p / 360p / 480p / 720p / 1080p)
 - 스트림 URL 5분 캐시로 빠른 재생 전환
 
+![preview](.github/assets/preview-3.png)
+![preview](.github/assets/preview-5.png)
+
 ### 🔍 검색
 - `youtubei.js` 기반 YouTube InnerTube 검색
 - 무한 스크롤로 추가 결과 자동 로딩
+
+![preview](.github/assets/preview-2.png)
 
 ### 📋 재생 큐
 - 검색 결과에서 클릭 즉시 큐 추가 및 재생
 - 전체 삭제 시 재생 즉시 중단
 - 셔플 / 전체 반복 / 한 곡 반복 3단계 전환
 
+![preview](.github/assets/preview-4.png)
+
 ### 📁 플레이리스트
 - 카테고리별 영상 저장 (`localStorage` 영구 보존)
 - 카테고리 추가 / 삭제 / 이름 변경
 - 카테고리 전체 재생 버튼
 
+![preview](.github/assets/preview-7.png)
+
 ### 🎨 UI / UX
 - 3컬럼 레이아웃 (검색 | 플레이어 | 플레이리스트)
 - 네온 글로우 로고 이펙트
 - 로딩 중 썸네일 블러 배경 + 앨범아트 애니메이션
-- 블루아카이브 컬러 테마 (`#4fc3f7`)
+- 컬러 테마 (`#4fc3f7`)
 
 ---
 
