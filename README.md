@@ -106,7 +106,7 @@ sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp \
 ### 2. 클론 및 실행
 
 ```bash
-git clone https://github.com/your-username/prism.git
+git clone https://github.com/Neptunerere/PRISM-YouTubePlayer.git
 cd prism
 npm install
 npm run dev
